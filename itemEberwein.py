@@ -1,6 +1,6 @@
 """
 File: itemEberwein.py
-This module defines the Rectangle class
+This module defines the Item class
 """
 
 class Item:
